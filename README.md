@@ -23,7 +23,7 @@
 - [Репозиторий с данными курса](https://github.com/FUlyankin/matstat-AB)
 - [Теория курса на ютубе](https://www.youtube.com/@user-bg8cd4fn7d/playlists)
 
-### yet another matstat
+### ТеорВер и МатСтат (ВШЭ, ФКН, МОВС)
 - [Плейлист лекций](https://www.youtube.com/playlist?list=PLNKXA-74YGLjDOtDSZEFoy1yP-3AfiHUC)
 - [Гит-хаб курса](https://github.com/FUlyankin/yet_another_matstat_course)
 
