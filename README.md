@@ -1,5 +1,6 @@
 ### Машинное обучение - 1 (ВШЭ, ФКН)
-Программа курса - странице фкн-вики
+Программа курса - странице фкн-вики \
+[Моя репа с курсом](https://github.com/miron34/MyEducation/tree/main/ML1_hse) 
 - [Страница курса на ФКН-вики 2022-2023г](http://wiki.cs.hse.ru/Машинное_обучение_1)
 - [Отличный плэйлист семинаров](https://youtube.com/playlist?list=PLNKXA-74YGLg3iqSvpUulztmoLZAF0rag)
 - [Плейлист лекций Соколов](https://www.youtube.com/playlist?list=PLEwK9wdS5g0ohn4v-t8yaCOEAC0KT3EPf)
@@ -19,7 +20,8 @@
 ---
 ### Coursera. От статистики до нейросетей (ВШЭ)
 Курс на курсере заблокирован, поэтому такие костыли \
-Прогрмма курса - в readme репы с данными
+Программа курса - в readme репы с данными \
+[Моя репа с курсом](https://github.com/miron34/MyEducation/tree/main/Coursera_matstatAB) 
 - [Репозиторий с данными курса](https://github.com/FUlyankin/matstat-AB)
 - [Теория курса на ютубе](https://www.youtube.com/@user-bg8cd4fn7d/playlists)
 
