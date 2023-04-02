@@ -31,7 +31,7 @@
 
 ---
 ### Анализ данных в индустрии (Tinkoff-education)
-[Моя репа с курсом] 
+[Моя репа с курсом](https://github.com/miron34/MyEducation/tree/main/data_analysis_tinkoff)
 - [Preview курса](https://fintech.tinkoff.ru/academy/analysis/)
 
 ---
