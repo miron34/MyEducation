@@ -30,4 +30,9 @@
 - [Гит-хаб курса](https://github.com/FUlyankin/yet_another_matstat_course)
 
 ---
+### Анализ данных в индустрии (Tinkoff-education)
+[Моя репа с курсом] 
+- [Preview курса](https://fintech.tinkoff.ru/academy/analysis/)
+
+---
 Все датасеты хранить в соответствующих папках /datasets/
