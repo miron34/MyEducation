@@ -16,6 +16,17 @@
 
 ---
 ### Введение в глубинное обучение (ВШЭ, Майнор ИАД)
+Программа курса - странице фкн-вики \
+[Моя репа с курсом](https://github.com/miron34/MyEducation/tree/main/DL_intro_hse) 
+- [Страница курса на ФКН-вики 2022-2023г](http://wiki.cs.hse.ru/Основы_глубинного_обучения)
+- [Репозиторий с данными курса](https://github.com/hse-ds/iad-deep-learning)
+- [Лекции и семинары](https://www.youtube.com/playlist?list=PLEwK9wdS5g0qa3PIhR6HBDJD_QnrfP8Ei)
+
+### Введение в глубокое обучение (МГУ, Мфк от msu.ai)
+[Моя репа с курсом](empty) 
+- [Страница курса на msu.ai](https://msu.ai/mfk)
+- [Страница курса на teach.in](https://teach-in.ru/course/introduction-to-dl-neychev/about)
+- [Репозиторий с данными курса](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Deep%20Learning)
 
 ---
 ### Coursera. От статистики до нейросетей (ВШЭ)
