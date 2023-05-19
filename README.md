@@ -9,7 +9,7 @@
 ### Машинное обучение - 2 (ВШЭ, ФКН)
 Программа курса - странице фкн-вики
 - [Страница курса на ФКН-вики 2021-2022г](http://wiki.cs.hse.ru/Машинное_обучение_2/2021_2022)
-- [Отличный плэйлист семинаров](https://youtube.com/playlist?list=PLNKXA-74YGLg3iqSvpUulztmoLZAF0rag)
+- [Отличный плейлист семинаров](https://youtube.com/playlist?list=PLNKXA-74YGLg3iqSvpUulztmoLZAF0rag)
 - [Плейлист лекций Соколов](https://www.youtube.com/playlist?list=PLEwK9wdS5g0o_HWWtNffNsBPpNmeuSDYV)
 - [Гит-репозиторий курса](https://github.com/esokolov/ml-course-hse)
 
@@ -27,6 +27,10 @@
 - [Страница курса на msu.ai](https://msu.ai/mfk)
 - [Страница курса на teach.in](https://teach-in.ru/course/introduction-to-dl-neychev/about)
 - [Репозиторий с данными курса](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Deep%20Learning)
+
+### NLP-курс от Lena Voita
+[Моя репа с курсом](https://github.com/miron34/MyEducation/tree/main/nlp_lena_voita) 
+[Ссылка на курс](https://lena-voita.github.io/nlp_course.html)
 
 ---
 ### Coursera. От статистики до нейросетей (ВШЭ)
