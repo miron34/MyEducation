@@ -50,4 +50,7 @@
 - [Preview курса](https://fintech.tinkoff.ru/academy/analysis/)
 
 ---
+### Материалы для ML/DS-интервью
+[Моя репа](https://github.com/miron34/MyEducation/tree/main/interviews)
+---
 Все датасеты хранить в соответствующих папках /datasets/
