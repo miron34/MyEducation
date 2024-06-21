@@ -23,20 +23,20 @@
 - [Лекции и семинары](https://www.youtube.com/playlist?list=PLEwK9wdS5g0qa3PIhR6HBDJD_QnrfP8Ei)
 
 ### Введение в глубокое обучение (МГУ, Мфк от msu.ai) `FILL DATA`
-[Моя репа с курсом](https://github.com/miron34/MyEducation/tree/main/dl_intro_msuai) 
+- [Моя репа с курсом](https://github.com/miron34/MyEducation/tree/main/dl_intro_msuai) 
 - [Страница курса на msu.ai](https://msu.ai/mfk)
 - [Страница курса на teach.in](https://teach-in.ru/course/introduction-to-dl-neychev/about)
 - [Репозиторий с данными курса](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Deep%20Learning)
 
 ### NLP-курс от Lena Voita
-[Моя репа с курсом](https://github.com/miron34/MyEducation/tree/main/nlp_lena_voita) 
-[Ссылка на курс](https://lena-voita.github.io/nlp_course.html)
+- [Моя репа с курсом](https://github.com/miron34/MyEducation/tree/main/nlp_lena_voita) 
+- [Ссылка на курс](https://lena-voita.github.io/nlp_course.html)
 
 ---
 ### Coursera. От статистики до нейросетей (ВШЭ)
 Курс на курсере заблокирован, поэтому такие костыли \
 Программа курса - в readme репы с данными \
-[Моя репа с курсом](https://github.com/miron34/MyEducation/tree/main/Coursera_matstatAB) 
+- [Моя репа с курсом](https://github.com/miron34/MyEducation/tree/main/Coursera_matstatAB) 
 - [Репозиторий с данными курса](https://github.com/FUlyankin/matstat-AB)
 - [Теория курса на ютубе](https://www.youtube.com/@user-bg8cd4fn7d/playlists)
 
@@ -46,11 +46,11 @@
 
 ---
 ### Анализ данных в индустрии (Tinkoff-education)
-[Моя репа с курсом](https://github.com/miron34/MyEducation/tree/main/data_analysis_tinkoff)
+- [Моя репа с курсом](https://github.com/miron34/MyEducation/tree/main/data_analysis_tinkoff)
 - [Preview курса](https://fintech.tinkoff.ru/academy/analysis/)
 
 ---
 ### Материалы для ML/DS-интервью
-[Моя репа](https://github.com/miron34/MyEducation/tree/main/interviews)
+- [Моя репа](https://github.com/miron34/MyEducation/tree/main/interviews)
 ---
 Все датасеты хранить в соответствующих папках /datasets/
